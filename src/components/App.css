@@ -1,0 +1,7 @@
+wrapper{
+    display: "flex";
+    justify-content: "space-between";
+    max-Width: "900px";
+    border: "1px solid #e6e6e6";
+    margin-Top: "0px";
+}
